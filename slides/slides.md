@@ -7,6 +7,29 @@
 # Q0
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-6cY-FvMlmkQ-mtn_cross.jpg" -->
+## James: **Keep the Faith**
++ Stands the **Test** <span class="ref">(1:2-12)</span>
++ Demands a **Change** of Heart <span class="ref">(1:19-25)</span>
++ Loves **Impartially** <span class="ref">(2:5-9)</span>
++ **Acts** <span class="ref">(2:17-24)</span>
+
+>>>
+1. Stands the *Test*:
+  1. **Joy** in Trials
+  1. **Wisdom** Given Generously
+  1. **Boasting** in Our Weakness
+1. Change of *Heart*:
+  1. Shun **Anger**
+  1. **Accept** the Word
+  1. **Act**, Don't Just Listen
+  1. **Abide** and Obey
+1. Loves **Impartially**:
+  1. **Faith** of the Poor
+  1. **Pride** of the Rich
+  1. **Law** of the King
+
+---
 <span class="ref">17</span>
 In the same way, faith by itself, <br/>
 if it is not accompanied by action, is dead.
