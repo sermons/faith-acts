@@ -1,7 +1,9 @@
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Jztmx9yqjBw-stars.jpg" -->
 # Faith that Acts
 ## James 2:17-24
 
 ---
+<!-- .slide: data-background="white" -->
 # Q0
 
 ---
@@ -41,3 +43,5 @@ and he was called God’s friend.
 
 You see that a person is considered righteous <br/>
 by what they do and not by faith alone.
+
+
