@@ -44,4 +44,8 @@ and he was called God’s friend.
 You see that a person is considered righteous <br/>
 by what they do and not by faith alone.
 
-
+---
+## Faith that Acts <span class="ref">(Jam2)</span>
+1. Point **One** <span class="ref">(17)</span>
+2. Point **Two** <span class="ref">(18-19)</span>
+3. Point **Three** <span class="ref">(20-24)</span>
