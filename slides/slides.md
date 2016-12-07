@@ -34,11 +34,11 @@
 In the same way, **faith** by itself, <br/>
 if it is not accompanied by **action**, is **dead**.
 
+---
 <span class="ref">18</span>
 But someone will say, <br/>
 “**You** have faith; **I** have deeds.”
 
----
 Show me your faith **without** deeds, <br/>
 and I will show you my faith **by** my deeds.
 
@@ -63,13 +63,13 @@ were working **together**, <br/>
 and his faith was made **complete** <br/>
 by what he did.
 
----
 <span class="ref">23</span>
 And the scripture was fulfilled that says, <br/>
 “Abraham **believed** God, <br/>
 and it was credited to him as **righteousness**,” <br/>
 and he was called God’s **friend**.
 
+---
 <span class="ref">24</span>
 You see that a person is considered **righteous** <br/>
 by what they **do** and not by faith **alone**.
@@ -79,3 +79,7 @@ by what they **do** and not by faith **alone**.
 1. Point **One** <span class="ref">(17)</span>
 2. Point **Two** <span class="ref">(18-19)</span>
 3. Point **Three** <span class="ref">(20-24)</span>
+
+---
+<!-- .slide: data-background="white" -->
+# Q0
