@@ -81,5 +81,24 @@ by what they **do** and not by faith **alone**.
 3. Point **Three** <span class="ref">(20-24)</span>
 
 ---
+<span class="ref">15</span>
+Suppose a brother or a sister is </br>
+without **clothes** and daily **food**.
+
+If one of you says to them, </br>
+“Go in **peace**; keep **warm** and **well fed**,”
+
+but does **nothing** about their physical needs, </br>
+what **good** is it?
+
+>>>
++ **naked** and lacking **food** of the day
++ be **warmed** / warm **yourself** (M/P)
+  + be **filled** / satisfied
++ **necessities** of the **body**
++ What is the **benefit**?
+  + to needy, to speaker
+
+---
 <!-- .slide: data-background="white" -->
 # Q0
