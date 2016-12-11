@@ -4,7 +4,16 @@
 
 ---
 <!-- .slide: data-background="white" -->
-# Q0
+# What does it **mean**
+# to **believe** in God?
+
+>>>
++ **acknowledge** higher power?
+  + &rArr; **doctrine**?
++ **feel** oneness and constant companionship?
+  + &rArr; **comfort**?
++ **do** good to fellow man?
+  + &rArr; **works**?
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-6cY-FvMlmkQ-mtn_cross.jpg" -->
