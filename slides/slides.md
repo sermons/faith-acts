@@ -76,8 +76,8 @@ by what they **do** and not by faith **alone**.
 
 ---
 ## Faith that Acts <span class="ref">(Jam2)</span>
-1. Point **One** <span class="ref">(17)</span>
-2. Point **Two** <span class="ref">(18-19)</span>
+1. Good **Intentions** <span class="ref">(17)</span>
+2. **Specialisation** <span class="ref">(18-19)</span>
 3. Point **Three** <span class="ref">(20-24)</span>
 
 ---
@@ -95,10 +95,94 @@ what **good** is it?
 + **naked** and lacking **food** of the day
 + be **warmed** / warm **yourself** (M/P)
   + be **filled** / satisfied
+  + good **intentions**
 + **necessities** of the **body**
 + What is the **benefit**?
   + to needy, to speaker
 
 ---
+<span class="ref">17</span>
+In the same way, **faith** by itself, <br/>
+if it is not accompanied by **action**, is **dead**.
+
+>>>
++ **object** of faith
+  + not **strength** of faith
+
+---
 <!-- .slide: data-background="white" -->
-# Q0
+# Q1
+
+---
+<span class="ref">18</span>
+But someone will say, <br/>
+“**You** have faith; **I** have deeds.”
+
+>>>
++ division of labour
++ specialisation
++ not all "**doers**"
+
+---
+<span class="ref">19</span>
+You believe that there is **one God**. Good! <br/>
+Even the **demons** believe that — and shudder.
+
+>>>
++ intellectual **assent**
+
+---
+<!-- .slide: data-background="white" -->
+# Q2
+
+---
+<span class="ref">21</span>
+Was not our father **Abraham** <br/>
+considered **righteous** for what he did <br/>
+when he **offered** his son Isaac on the altar?
+
+---
+<span class="ref">(Gen 22:2)</span>
+Then God said, <br/>
+“Take your son, your only son, <br/>
+whom you love -- Isaac -- <br/>
+and go to the region of Moriah.
+
+Sacrifice him there as a burnt offering <br/>
+on a mountain I will show you.”
+
+---
+<span class="ref">(Gen 15:1)</span>
+After this, the word of the Lord <br/>
+came to Abram in a vision:
+
+“Do not be afraid, Abram. <br/>
+I am your shield, your very great reward.”
+
+---
+<span class="ref">(Gen 15:2)</span>
+But Abram said, “Sovereign Lord, <br/>
+what can you give me since I remain childless <br/>
+and the one who will inherit my estate <br/>
+is Eliezer of Damascus?”
+
+Then the word of the Lord came to him: <br/>
+“This man will not be your heir, <br/>
+but a son who is your own flesh and blood <br/>
+will be your heir.”
+
+<span class="ref">(Gen 15:5)</span>
+He took him outside and said, <br/>
+“Look up at the sky and count the stars <br/>
+-- if indeed you can count them.”
+
+Then he said to him, <br/>
+“So shall your offspring be.”
+
+Abram believed the Lord, <br/>
+and he credited it to him as righteousness.
+
+---
+<!-- .slide: data-background="white" -->
+# Q3
+
