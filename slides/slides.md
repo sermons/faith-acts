@@ -171,6 +171,14 @@ Which of the two did what his father wanted?
 ---
 # Outline
 
+>>>
++ **integrity**: one whole person
++ on **bus** / with **parents** / **classmates**
+  + **same** person as
+  + at **church**: sing / pray
++ faith is **incomplete** if
+  + only at **church**
+
 ---
 <span class="ref">18</span>
 But someone will say, <br/>
@@ -180,6 +188,7 @@ But someone will say, <br/>
 + division of labour
 + specialisation
 + not all "**doers**"
++ e.g., directing wife how to cook
 
 ---
 <span class="ref">19</span>
@@ -188,10 +197,21 @@ Even the **demons** believe that — and shudder.
 
 >>>
 + intellectual **assent**
+  + demons know correct **doctrine**!
++ &rArr; need **obedience**
+  + **integration** of faith + works
++ **child-like** faith + obey, better than
+  + **memorise** entire Bible
 
 ---
 <!-- .slide: data-background="white" -->
-# Q2
+# Have I focused on **doctrine**
+# and neglected **action**?
+
+>>>
++ need **both**
++ be person of **integrity**
++ have **integral**, whole faith
 
 ---
 # Outline
