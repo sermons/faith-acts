@@ -126,12 +126,47 @@ In the same way, **faith** by itself, <br/>
 if it is not accompanied by **action**, is **dead**.
 
 >>>
-+ **object** of faith
-  + not **strength** of faith
++ *same way*: not only helping poor
++ anything God **asks** of us
+  + or we **commit** to God
++ better to **not promise** but **do**
+  + than **promise** and **not do**
+
+---
+<span class="ref">(Mt 21:28)</span>
+There was a man who had two sons.
+He went to the first and said,
+"Son, go and work today in the vineyard."
+
+<span class="ref">29</span>
+"I will not," he answered,
+but later he changed his mind and went.
+
+---
+<span class="ref">30</span>
+Then the father went to the other son
+and said the same thing.
+
+He answered, "I will, sir," but he did not go.
+
+<span class="ref">31</span>
+Which of the two did what his father wanted?
+
+>>>
++ to **chief priests** in Jerusalem *(23)*
+  + lots of **promises** to God
++ **tax collectors** + prostitutes *(32)*
+  + **believed** John the Baptist
 
 ---
 <!-- .slide: data-background="white" -->
-# Q1
+# What **promises** <br/> have I made to God
+# which need **action**?
+
+>>>
++ tangible **aid** to needy brethren
++ **obedience** to God's command
++ good **intentions** not enough!
 
 ---
 # Outline
