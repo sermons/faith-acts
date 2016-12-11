@@ -24,19 +24,18 @@
 + **Acts** <span class="ref">(2:15-24)</span>
 
 >>>
-1. Stands the *Test*:
-  1. **Joy** in Trials
-  1. **Wisdom** Given Generously
-  1. **Boasting** in Our Weakness
-1. Change of *Heart*:
-  1. Shun **Anger**
-  1. **Accept** the Word
-  1. **Act**, Don't Just Listen
-  1. **Abide** and Obey
-1. Loves **Impartially**:
-  1. **Faith** of the Poor
-  1. **Pride** of the Rich
-  1. **Law** of the King
+1. **Joy** in Trials
+1. **Wisdom** Given Generously
+1. **Boasting** in Our Weakness
+===
+1. Shun **Anger**
+1. **Accept** the Word
+1. **Act**, Don't Just Listen
+1. **Abide** and Obey
+===
+1. **Faith** of the Poor
+1. **Pride** of the Rich
+1. **Law** of the King
 
 ---
 <span class="ref">15</span>
@@ -114,10 +113,10 @@ but does **nothing** about their physical needs, </br>
 what **good** is it?
 
 >>>
-+ **brother**: not saving whole world
-  + **start** with those close to us
-+ **naked** and lacking **food** of the day
-+ be **warmed** / warm **yourself** (M/P)
++ **brother**: not saving world
+  + **start** close
++ **naked**, lack **food** of day
++ be **warmed** / warm **self**: m/p
   + be **filled** / satisfied
   + good **intentions**
 + **necessities** of the **body**
@@ -131,12 +130,12 @@ In the same way, **faith** by itself, <br/>
 if it is not accompanied by **action**, is **dead**.
 
 >>>
-+ *same way*: not only helping poor
++ not just help **poor**
 + anything God **asks** of us
   + or we **commit** to God
 + better to **not promise** but **do**
   + than **promise** and **not do**
-+ **parable** of Jesus, let's **read**:
++ **parable** of Jesus: **Read**
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-qVb-K2mFtDU-wheat.jpg" -->
@@ -162,9 +161,9 @@ He answered, "I **will**, sir," but he did **not** go.
 **Which** of the two did what his father wanted?
 
 >>>
-+ to **chief priests** in Jerusalem *(23)*
++ to **chief priests** in Jeru *(23)*
   + lots of **promises** to God
-+ **tax collectors** + prostitutes *(32)*
++ **tax coll** + prostitutes *(32)*
   + **believed** John the Baptist
 
 ---
@@ -186,7 +185,7 @@ He answered, "I **will**, sir," but he did **not** go.
 
 >>>
 + **integrity**: one whole person
-+ on **bus** / with **parents** / **classmates**
++ on **bus** / w/**parents** / **classmate**
   + **same** person as
   + at **church**: sing / pray
 + faith is **incomplete** if
@@ -211,11 +210,11 @@ You believe that there is **one God**. Good! <br/>
 Even the **demons** believe that — and shudder.
 
 >>>
-+ intellectual **assent**
-  + demons know correct **doctrine**!
++ not just intellectual **assent**
+  + or correct **doctrine**
 + &rArr; need **obedience**
-  + **integration** of faith + works
-+ **child-like** faith + obey, better than
+  + **integrate** faith + works
++ **child-like** faith + obey: &gt;
   + **memorise** entire Bible
 
 ---
@@ -235,6 +234,12 @@ Even the **demons** believe that — and shudder.
 2. Integral Life <span class="ref">(18-19)</span>
 3. **Impacts the Heart** <span class="ref">(20-24)</span>
 
+>>>
++ to the point of **sacrifice**
++ willing to **relinquish**
+  + God's **blessings**
+  + **back** to Him
+
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-xCdFXXoZkJc-dark_sky.jpg" -->
 <span class="ref">21</span>
@@ -244,10 +249,10 @@ when he **offered** his son Isaac on the altar?
 
 >>>
 + What was Abraham's **faith**?
-+ bg on **Abram** (exalted father)
-  + before renamed **Abraham** (father of many)
++ bg on **Abram** *(exalted father)*
+  + before renamed **Abraham** *(father of many)*
 + Abram+Sarai were **childless**
-+ Let's **read** together from Gen 15:
++ **Read** Gen 15:
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Jztmx9yqjBw-stars.jpg" -->
@@ -264,7 +269,7 @@ I am your **shield**, your very great **reward**.”
   + **Providence** (reward)
 + fulfilled in **God** Himself
   + not just **gifts** from Him
-+ but Abram wasn't **satisfied** yet...
++ but Abram not **satisfied** yet:
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Jztmx9yqjBw-stars.jpg" -->
@@ -296,7 +301,7 @@ Then he said to him, <br/>
 >>>
 + *(15-16)* God has **more** in store:
   + **suffering** in Egypt
-  + **judgment** upon oppressors
+  + **judgment** on oppressors
 + not just Abram's **personal** life
   + entire **nation** of Israel
   + blessing to **all nations**
@@ -325,7 +330,7 @@ by what they **do** and not by faith **alone**.
 >>>
 + **Trust** + **Obey**
 + Abraham's **faith** was not **complete** yet!
-+ Let's **read** later in Gen 22:
++ Continue **reading**, Gen 22:
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Carvaggio-Sacrifice_of_Isaac-1603.jpg" -->
@@ -339,11 +344,10 @@ and go to the region of Moriah.
 on a mountain I will show you.”
 
 >>>
-+ *only son*: of **promise**
-  + (excludes *Ishmael*)
++ *only*: of **promise** (not *Ishmael*)
 + **pagan** child sacrifice
-  + inconsistent w/God's **character**?
-+ Lord **gives** / takes **away** *(Job 1:21)*
+  + not God's **character**?
++ **gives** / takes **away** *(Job 1:21)*
   + **authority** to do so
 + LORD **provided** on Mt Moriah
   + ram as **substitute**
@@ -358,7 +362,7 @@ and his faith was made **complete** <br/>
 by what he **did**.
 
 >>>
-+ *Gen 15:6*: **believed** &rarr; **righteous**
++ *Gen15:6*: **believed** &rarr; **righteous**
   + "ok God, I believe you"
 + not **complete** until *Gen 22*
   + willing to **relinquish**
