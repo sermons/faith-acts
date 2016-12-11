@@ -170,7 +170,7 @@ He answered, "I **will**, sir," but he did **not** go.
 ---
 <!-- .slide: data-background="white" -->
 # What **promises** <br/> have I made to God
-# which need **action**?
+# without **action**?
 
 >>>
 + tangible **aid** to needy brethren
@@ -220,8 +220,8 @@ Even the **demons** believe that — and shudder.
 
 ---
 <!-- .slide: data-background="white" -->
-# Have I focused <br/> on **doctrine**
-# and neglected **action**?
+# Have I focused <br/> on **doctrine** and
+# neglected **action**?
 
 >>>
 + need **both**
