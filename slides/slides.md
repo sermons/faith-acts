@@ -261,14 +261,18 @@ I am your **shield**, your very great **reward**.”
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Jztmx9yqjBw-stars.jpg" -->
 <span class="ref">(Gen 15:2)</span>
 But Abram said, “Sovereign Lord, <br/>
-what can you give me since I remain **childless** <br/>
-and the one who will inherit my estate <br/>
+what can you **give** me since I remain **childless** <br/>
+and the one who will **inherit** my estate <br/>
 is Eliezer of Damascus?”
 
+<span class="ref">4</span>
 Then the word of the Lord came to him: <br/>
 “This man will not be your heir, <br/>
 but a **son** who is your own flesh and blood <br/>
 will be your **heir**.”
+
+>>>
++ Eliezer was his **servant**
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Jztmx9yqjBw-stars.jpg" -->
@@ -280,6 +284,17 @@ He took him outside and said, <br/>
 Then he said to him, <br/>
 “So shall your **offspring** be.”
 
+>>>
++ *(15-16)* God has **more** in store:
+  + **suffering** in Egypt
+  + **judgment** upon oppressors
++ not just Abram's **personal** life
+  + entire **nation** of Israel
+  + blessing to **all nations**
+
+---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Jztmx9yqjBw-stars.jpg" -->
+<span class="ref">(Gen 15:6)</span>
 Abram **believed** the Lord, <br/>
 and he **credited** it to him as **righteousness**.
 
