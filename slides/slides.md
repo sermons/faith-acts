@@ -1,4 +1,4 @@
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Jztmx9yqjBw-stars.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-VMphSM-RqBo-snow_walking.jpg" -->
 # Faith that Acts
 ## James 2:15-24
 
@@ -86,6 +86,7 @@ You see that a person is considered **righteous** <br/>
 by what they **do** and not by faith **alone**.
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-VMphSM-RqBo-snow_walking.jpg" -->
 ## Faith that Acts <span class="ref">(James 2b)</span>
 1. More than **Intentions** <span class="ref">(15-17)</span>
 2. **Integral** Faith <span class="ref">(18-19)</span>
@@ -157,6 +158,12 @@ Was not our father **Abraham** <br/>
 considered **righteous** for what he did <br/>
 when he **offered** his son Isaac on the altar?
 
+>>>
++ What was Abraham's **faith**?
++ bg on **Abram** (exalted father)
+  + before renamed **Abraham** (father of many)
++ Abram+Sarai were **childless**...
+
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Jztmx9yqjBw-stars.jpg" -->
 <span class="ref">(Gen 15:1)</span>
@@ -165,6 +172,14 @@ came to Abram in a vision:
 
 “Do not be afraid, Abram. <br/>
 I am your **shield**, your very great **reward**.”
+
+>>>
++ **promise**:
+  + **Protection** (shield)
+  + **Providence** (reward)
++ fulfilled in **God** Himself
+  + not just **gifts** from Him
++ but Abram wasn't **satisfied** yet...
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Jztmx9yqjBw-stars.jpg" -->
@@ -191,6 +206,23 @@ Then he said to him, <br/>
 
 Abram **believed** the Lord, <br/>
 and he **credited** it to him as **righteousness**.
+
+>>>
++ *Gal* highlights this as
+  + **defn** of righteousness:
++ Not just **lip service**
+  + or **intellectual** assent
++ Take God **at His Word**
+  + to the point of **action**
++ Reflected back in *James 2:24*:
+
+---
+<span class="ref">24</span>
+You see that a person is considered **righteous** <br/>
+by what they **do** and not by faith **alone**.
+
+>>>
++ **Trust** + **Obey**
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-xCdFXXoZkJc-dark_sky.jpg" -->
@@ -223,14 +255,11 @@ So those who **rely on faith**
 are **blessed** along with Abraham, the **man of faith**.
 
 ---
-<span class="ref">24</span>
-You see that a person is considered **righteous** <br/>
-by what they **do** and not by faith **alone**.
-
----
 <!-- .slide: data-background="white" -->
 # Q3
 
 ---
 # Outline
 
+---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-VMphSM-RqBo-snow_walking.jpg" class="empty" -->
