@@ -78,7 +78,7 @@ by what they **do** and not by faith **alone**.
 ## Faith that Acts <span class="ref">(Jam2)</span>
 1. Good **Intentions** <span class="ref">(17)</span>
 2. **Specialisation** <span class="ref">(18-19)</span>
-3. Point **Three** <span class="ref">(20-24)</span>
+3. Faith in **Action** <span class="ref">(20-24)</span>
 
 ---
 <span class="ref">15</span>
