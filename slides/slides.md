@@ -101,8 +101,8 @@ by what they **do** and not by faith **alone**.
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-VMphSM-RqBo-snow_walking.jpg" -->
 ## Faith that Acts <br/> <span class="ref">James 2(b)</span>
 1. More than **Intentions** <span class="ref">(15-17)</span>
-2. **Integral** Faith <span class="ref">(18-19)</span>
-3. Faith that **Costs** <span class="ref">(20-24)</span>
+2. **Integral** Life <span class="ref">(18-19)</span>
+3. **Impacts** the Heart <span class="ref">(20-24)</span>
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/pixabay-852423-homeless.jpg" -->
@@ -178,7 +178,11 @@ He answered, "I **will**, sir," but he did **not** go.
 + good **intentions** not enough!
 
 ---
-# Outline
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-VMphSM-RqBo-snow_walking.jpg" -->
+## Faith that Acts <br/> <span class="ref">James 2(b)</span>
+1. More than Intentions <span class="ref">(15-17)</span>
+2. **Integral Life** <span class="ref">(18-19)</span>
+3. Impacts the Heart <span class="ref">(20-24)</span>
 
 >>>
 + **integrity**: one whole person
@@ -225,7 +229,11 @@ Even the **demons** believe that — and shudder.
 + have **integral**, whole faith
 
 ---
-# Outline
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-VMphSM-RqBo-snow_walking.jpg" -->
+## Faith that Acts <br/> <span class="ref">James 2(b)</span>
+1. More than Intentions <span class="ref">(15-17)</span>
+2. Integral Life <span class="ref">(18-19)</span>
+3. **Impacts the Heart** <span class="ref">(20-24)</span>
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-xCdFXXoZkJc-dark_sky.jpg" -->
@@ -379,10 +387,18 @@ are **blessed** along with Abraham, the **man of faith**.
 
 ---
 <!-- .slide: data-background="white" -->
-# Q3
+# What am I willing <br/> to **relinquish** to God
+# in obedient **faith**?
+
+>>>
++ needs to **impact** my heart
 
 ---
-# Outline
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-VMphSM-RqBo-snow_walking.jpg" -->
+## Faith that Acts <br/> <span class="ref">James 2(b)</span>
+1. More than **Intentions** <span class="ref">(15-17)</span>
+2. **Integral** Life <span class="ref">(18-19)</span>
+3. **Impacts** the Heart <span class="ref">(20-24)</span>
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-VMphSM-RqBo-snow_walking.jpg" -->
