@@ -299,12 +299,29 @@ and go to the region of Moriah.
 **Sacrifice** him there as a **burnt offering** <br/>
 on a mountain I will show you.”
 
+>>>
++ *only son*: of **promise**
+  + (excludes *Ishmael*)
++ **pagan** child sacrifice
+  + inconsistent w/God's **character**?
++ Lord **gives** / takes **away** *(Job 1:21)*
+  + **authority** to do so
+
 ---
 <span class="ref">22</span>
 You see that his **faith** and his **actions** <br/>
-were working **together**, <br/>
+were working **together**,
+
 and his faith was made **complete** <br/>
 by what he **did**.
+
+>>>
++ LORD **provided** on Mt Moriah
++ *Gen 15:6*: **believed** &rarr; **righteous**
+  + "ok God, I believe you"
++ not **complete** until *Gen 22*
+  + willing to **relinquish**
++ this **kind** of belief: to **action**
 
 ---
 <span class="ref">(Gal 3:8)</span>
@@ -318,12 +335,28 @@ and announced the **gospel** in advance to Abraham:
 So those who **rely on faith**
 are **blessed** along with Abraham, the **man of faith**.
 
+>>>
++ We **follow** in his footsteps
++ justified not by **works** of law
+  + nor by mental **assertion**
++ but **trust** in God's **promises**
+  + via **obedience** to His **commands**
+
 ---
 <!-- .slide: data-background="white" -->
 # Q3
 
 ---
 # Outline
+
+---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-VMphSM-RqBo-snow_walking.jpg" -->
+<span class="ref">22</span>
+His **faith** and his **actions** <br/>
+were working **together**,
+
+and his faith was made **complete** <br/>
+by what he **did**.
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-VMphSM-RqBo-snow_walking.jpg" class="empty" -->
