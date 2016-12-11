@@ -27,12 +27,12 @@
 1. **Joy** in Trials
 1. **Wisdom** Given Generously
 1. **Boasting** in Our Weakness
-===
+<br/>
 1. Shun **Anger**
 1. **Accept** the Word
 1. **Act**, Don't Just Listen
 1. **Abide** and Obey
-===
+<br/>
 1. **Faith** of the Poor
 1. **Pride** of the Rich
 1. **Law** of the King
