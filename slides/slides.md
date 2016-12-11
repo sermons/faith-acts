@@ -54,6 +54,9 @@ what **good** is it?
 In the same way, **faith** by itself, <br/>
 if it is not accompanied by **action**, is **dead**.
 
+>>>
++ **Read** together today's passage
+
 ---
 <span class="ref">18</span>
 But someone will say, <br/>
@@ -133,6 +136,7 @@ if it is not accompanied by **action**, is **dead**.
   + or we **commit** to God
 + better to **not promise** but **do**
   + than **promise** and **not do**
++ **parable** of Jesus, let's **read**:
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-qVb-K2mFtDU-wheat.jpg" -->
@@ -224,7 +228,7 @@ Even the **demons** believe that — and shudder.
 # Outline
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Carvaggio-Sacrifice_of_Isaac-1603.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-xCdFXXoZkJc-dark_sky.jpg" -->
 <span class="ref">21</span>
 Was not our father **Abraham** <br/>
 considered **righteous** for what he did <br/>
@@ -234,7 +238,8 @@ when he **offered** his son Isaac on the altar?
 + What was Abraham's **faith**?
 + bg on **Abram** (exalted father)
   + before renamed **Abraham** (father of many)
-+ Abram+Sarai were **childless**...
++ Abram+Sarai were **childless**
++ Let's **read** together from Gen 15:
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Jztmx9yqjBw-stars.jpg" -->
@@ -311,7 +316,8 @@ by what they **do** and not by faith **alone**.
 
 >>>
 + **Trust** + **Obey**
-+ Abraham's **faith** was not **complete** yet:
++ Abraham's **faith** was not **complete** yet!
++ Let's **read** later in Gen 22:
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Carvaggio-Sacrifice_of_Isaac-1603.jpg" -->
@@ -331,6 +337,8 @@ on a mountain I will show you.”
   + inconsistent w/God's **character**?
 + Lord **gives** / takes **away** *(Job 1:21)*
   + **authority** to do so
++ LORD **provided** on Mt Moriah
+  + ram as **substitute**
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-xCdFXXoZkJc-dark_sky.jpg" -->
@@ -342,24 +350,24 @@ and his faith was made **complete** <br/>
 by what he **did**.
 
 >>>
-+ LORD **provided** on Mt Moriah
 + *Gen 15:6*: **believed** &rarr; **righteous**
   + "ok God, I believe you"
 + not **complete** until *Gen 22*
   + willing to **relinquish**
 + this **kind** of belief: to **action**
++ Gen 15 also quoted in **Gal 3**:
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-74TufExdP3Y-sunlit-road.jpg" -->
 <span class="ref">(Gal 3:8)</span>
-Scripture foresaw that God would
-**justify** the Gentiles **by faith**,
+Scripture foresaw that God <br/>
+would **justify** the Gentiles **by faith**, <br/>
 and announced the **gospel** in advance to Abraham:
 
 “**All nations** will be **blessed** through you.”
 
 <span class="ref">9</span>
-So those who **rely on faith**
+So those who **rely on faith** <br/>
 are **blessed** along with Abraham, the **man of faith**.
 
 >>>
@@ -384,6 +392,9 @@ were working **together**,
 
 and his faith was made **complete** <br/>
 by what he **did**.
+
+>>>
+**read** together
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-VMphSM-RqBo-snow_walking.jpg" class="empty" -->
