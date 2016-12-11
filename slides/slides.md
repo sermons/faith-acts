@@ -1,7 +1,6 @@
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-VMphSM-RqBo-snow_walking.jpg" -->
 # Faith that Acts
-## James 2:15-24
-<!-- .element: class="ref" -->
+## <span class="ref">James 2:15-24</span>
 
 ---
 <!-- .slide: data-background="white" -->
@@ -97,10 +96,7 @@ by what they **do** and not by faith **alone**.
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-VMphSM-RqBo-snow_walking.jpg" -->
-## Faith that Acts
-## James 2(b)
-<!-- .element: class="ref" -->
-
+## Faith that Acts <br/> <span class="ref">James 2(b)</span>
 1. More than **Intentions** <span class="ref">(15-17)</span>
 2. **Integral** Faith <span class="ref">(18-19)</span>
 3. Faith that **Costs** <span class="ref">(20-24)</span>
