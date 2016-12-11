@@ -86,16 +86,13 @@ You see that a person is considered **righteous** <br/>
 by what they **do** and not by faith **alone**.
 
 ---
-## Faith that Acts <span class="ref">(Jam2)</span>
-1. Good **Intentions** <span class="ref">(17)</span>
-2. **Specialisation** <span class="ref">(18-19)</span>
-3. Faith in **Action** <span class="ref">(20-24)</span>
+## Faith that Acts <span class="ref">(James 2b)</span>
+1. More than **Intentions** <span class="ref">(15-17)</span>
+2. **Integral** Faith <span class="ref">(18-19)</span>
+3. Faith that **Costs** <span class="ref">(20-24)</span>
 
 ---
-<span class="ref">15</span>
-Suppose a **brother** or a **sister** is </br>
-without **clothes** and daily **food**.
-
+<span class="ref">16</span>
 If one of you says to them, </br>
 “Go in **peace**; keep **warm** and **well fed**,”
 
@@ -212,6 +209,18 @@ You see that his **faith** and his **actions** <br/>
 were working **together**, <br/>
 and his faith was made **complete** <br/>
 by what he **did**.
+
+---
+<span class="ref">(Gal 3:8)</span>
+Scripture foresaw that God would
+**justify** the Gentiles **by faith**,
+and announced the **gospel** in advance to Abraham:
+
+“**All nations** will be **blessed** through you.”
+
+<span class="ref">9</span>
+So those who **rely on faith**
+are **blessed** along with Abraham, the **man of faith**.
 
 ---
 <span class="ref">24</span>
