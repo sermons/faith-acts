@@ -97,12 +97,16 @@ by what they **do** and not by faith **alone**.
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-VMphSM-RqBo-snow_walking.jpg" -->
-## Faith that Acts <span class="ref">(James 2b)</span>
+## Faith that Acts
+## James 2(b)
+<!-- .element: class="ref" -->
+
 1. More than **Intentions** <span class="ref">(15-17)</span>
 2. **Integral** Faith <span class="ref">(18-19)</span>
 3. Faith that **Costs** <span class="ref">(20-24)</span>
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/pixabay-852423-homeless.jpg" -->
 <span class="ref">16</span>
 If one of you says to them, </br>
 “Go in **peace**; keep **warm** and **well fed**,”
@@ -122,6 +126,7 @@ what **good** is it?
   + to brother / to self
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-c333d6YEhi0-bible.jpg" -->
 <span class="ref">17</span>
 In the same way, **faith** by itself, <br/>
 if it is not accompanied by **action**, is **dead**.
@@ -134,18 +139,21 @@ if it is not accompanied by **action**, is **dead**.
   + than **promise** and **not do**
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-qVb-K2mFtDU-wheat.jpg" -->
 <span class="ref">(Mt 21:28)</span>
 There was a man who had **two sons**.
-He went to the **first** and said,
+
+He went to the **first** and said, <br/>
 "Son, go and **work** today in the vineyard."
 
 <span class="ref">29</span>
-"I will **not**," he answered,
+"I will **not**," he answered, <br/>
 but later he **changed** his mind and **went**.
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-qVb-K2mFtDU-wheat.jpg" -->
 <span class="ref">30</span>
-Then the father went to the **other** son
+Then the father went to the **other** son <br/>
 and said the **same** thing.
 
 He answered, "I **will**, sir," but he did **not** go.
@@ -181,6 +189,7 @@ He answered, "I **will**, sir," but he did **not** go.
   + only at **church**
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-5fNmWej4tAA-laptops_work.jpg" -->
 <span class="ref">18</span>
 But someone will say, <br/>
 “**You** have faith; **I** have deeds.”
@@ -192,6 +201,7 @@ But someone will say, <br/>
 + e.g., directing wife how to cook
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-ndsRLeQBlsA-dark_clouds.jpg" -->
 <span class="ref">19</span>
 You believe that there is **one God**. Good! <br/>
 Even the **demons** believe that — and shudder.
@@ -206,7 +216,7 @@ Even the **demons** believe that — and shudder.
 
 ---
 <!-- .slide: data-background="white" -->
-# Have I focused on **doctrine**
+# Have I focused <br/> on **doctrine**
 # and neglected **action**?
 
 >>>
@@ -218,6 +228,7 @@ Even the **demons** believe that — and shudder.
 # Outline
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Carvaggio-Sacrifice_of_Isaac-1603.jpg" -->
 <span class="ref">21</span>
 Was not our father **Abraham** <br/>
 considered **righteous** for what he did <br/>
@@ -282,15 +293,17 @@ and he **credited** it to him as **righteousness**.
 + Reflected back in *James 2:24*:
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-xCdFXXoZkJc-dark_sky.jpg" -->
 <span class="ref">24</span>
 You see that a person is considered **righteous** <br/>
 by what they **do** and not by faith **alone**.
 
 >>>
 + **Trust** + **Obey**
++ Abraham's **faith** was not **complete** yet:
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-xCdFXXoZkJc-dark_sky.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Carvaggio-Sacrifice_of_Isaac-1603.jpg" -->
 <span class="ref">(Gen 22:2)</span>
 Then God said, <br/>
 “Take your **son**, your **only** son, <br/>
@@ -309,6 +322,7 @@ on a mountain I will show you.”
   + **authority** to do so
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-xCdFXXoZkJc-dark_sky.jpg" -->
 <span class="ref">22</span>
 You see that his **faith** and his **actions** <br/>
 were working **together**,
