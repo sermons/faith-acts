@@ -1,6 +1,7 @@
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-VMphSM-RqBo-snow_walking.jpg" -->
 # Faith that Acts
 ## James 2:15-24
+<!-- .element: class="ref" -->
 
 ---
 <!-- .slide: data-background="white" -->
@@ -324,6 +325,7 @@ by what he **did**.
 + this **kind** of belief: to **action**
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-74TufExdP3Y-sunlit-road.jpg" -->
 <span class="ref">(Gal 3:8)</span>
 Scripture foresaw that God would
 **justify** the Gentiles **by faith**,
