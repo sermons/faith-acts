@@ -1,6 +1,6 @@
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-VMphSM-RqBo-snow_walking.jpg" -->
 # Faith that Acts
-## <span class="ref">James 2:15-24</span>
+## James 2:15-24
 
 ---
 <!-- .slide: data-background="white" -->
