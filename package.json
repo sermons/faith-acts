@@ -1,16 +1,16 @@
 {
-  "name": "@sermons/reveal-skel",
-  "version": "1.2.1",
-  "repository": "sermons/reveal-skel",
-  "description": "A template for Reveal.js-based presentations",
-  "keywords": ["slides", "lectures", "talks", "ppt"],
+  "name": "@sermons/faith-acts",
+  "version": "1.2.2",
+  "repository": "sermons/faith-acts",
+  "description": "James 2:17-24, Faith that Acts",
+  "keywords": ["slides", "sermons", "talks", "ppt"],
   "author": "Sean Ho <seanho@seanho.com> (http://seanho.com)",
   "config": {
-    "pretty_url": "reveal-skel.seanho.com",
-    "cname": "reveal-skel.seanho.com",
+    "pretty_url": "faith-acts.seanho.com",
+    "cname": "faith-acts.seanho.com",
     "multiplex": {
       "url": "https://mp-seanho00.rhcloud.com:8443/",
-      "id": "22bc761ffc97809b"
+      "id": "d9835ddb9e862f41"
     },
     "git": {
       "name": "Sean Ho",
@@ -18,12 +18,12 @@
     },
     "history": [
       {
-        "venue": "Venue of talk",
-        "city": "Location",
-        "date": "2000-01-01"
+        "venue": "Evangelical Chinese Bible Church",
+        "city": "Coquitlam",
+        "date": "2016-12-11"
       }
     ],
-    "slides": [ "slides/sample.md" ],
+    "slides": [ "slides/slides.md" ],
     "css": [
       {
         "href": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css",
