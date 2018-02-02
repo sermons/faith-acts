@@ -1,4 +1,4 @@
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-VMphSM-RqBo-snow_walking.jpg" -->
+<!-- .slide: <%= bg("unsplash-VMphSM-RqBo-snow_walking.jpg") %> -->
 # Faith that Acts
 ## James 2:15-24
 
@@ -16,7 +16,7 @@
   + &rArr; **works**?
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-6cY-FvMlmkQ-mtn_cross.jpg" -->
+<!-- .slide: <%= bg("unsplash-6cY-FvMlmkQ-mtn_cross.jpg") %> -->
 ## James: **Keep the Faith**
 + Stands the **Test** <span class="ref">(1:2-12)</span>
 + Demands a **Change** of Heart <span class="ref">(1:19-25)</span>
@@ -97,14 +97,14 @@ You see that a person is considered **righteous** <br/>
 by what they **do** and not by faith **alone**.
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-VMphSM-RqBo-snow_walking.jpg" -->
+<!-- .slide: <%= bg("unsplash-VMphSM-RqBo-snow_walking.jpg") %> -->
 ## Faith that Acts <br/> <span class="ref">James 2(b)</span>
 1. More than **Intentions** <span class="ref">(15-17)</span>
 2. **Integral** Life <span class="ref">(18-19)</span>
 3. **Impacts** the Heart <span class="ref">(20-24)</span>
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/pixabay-852423-homeless.jpg" -->
+<!-- .slide: <%= bg("pixabay-852423-homeless.jpg") %> -->
 <span class="ref">16</span>
 If one of you says to them, </br>
 “Go in **peace**; keep **warm** and **well fed**,”
@@ -124,7 +124,7 @@ what **good** is it?
   + to brother / to self
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-c333d6YEhi0-bible.jpg" -->
+<!-- .slide: <%= bg("unsplash-c333d6YEhi0-bible.jpg") %> -->
 <span class="ref">17</span>
 In the same way, **faith** by itself, <br/>
 if it is not accompanied by **action**, is **dead**.
@@ -138,7 +138,7 @@ if it is not accompanied by **action**, is **dead**.
 + **parable** of Jesus: **Read**
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-qVb-K2mFtDU-wheat.jpg" -->
+<!-- .slide: <%= bg("unsplash-qVb-K2mFtDU-wheat.jpg") %> -->
 <span class="ref">(Mt 21:28)</span>
 There was a man who had **two sons**.
 
@@ -150,7 +150,7 @@ He went to the **first** and said, <br/>
 but later he **changed** his mind and **went**.
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-qVb-K2mFtDU-wheat.jpg" -->
+<!-- .slide: <%= bg("unsplash-qVb-K2mFtDU-wheat.jpg") %> -->
 <span class="ref">30</span>
 Then the father went to the **other** son <br/>
 and said the **same** thing.
@@ -177,7 +177,7 @@ He answered, "I **will**, sir," but he did **not** go.
 + good **intentions** not enough!
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-VMphSM-RqBo-snow_walking.jpg" -->
+<!-- .slide: <%= bg("unsplash-VMphSM-RqBo-snow_walking.jpg") %> -->
 ## Faith that Acts <br/> <span class="ref">James 2(b)</span>
 1. More than Intentions <span class="ref">(15-17)</span>
 2. **Integral Life** <span class="ref">(18-19)</span>
@@ -192,7 +192,7 @@ He answered, "I **will**, sir," but he did **not** go.
   + only at **church**
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-5fNmWej4tAA-laptops_work.jpg" -->
+<!-- .slide: <%= bg("unsplash-5fNmWej4tAA-laptops_work.jpg") %> -->
 <span class="ref">18</span>
 But someone will say, <br/>
 “**You** have faith; **I** have deeds.”
@@ -204,7 +204,7 @@ But someone will say, <br/>
 + e.g., directing wife how to cook
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-ndsRLeQBlsA-dark_clouds.jpg" -->
+<!-- .slide: <%= bg("unsplash-ndsRLeQBlsA-dark_clouds.jpg") %> -->
 <span class="ref">19</span>
 You believe that there is **one God**. Good! <br/>
 Even the **demons** believe that — and shudder.
@@ -228,7 +228,7 @@ Even the **demons** believe that — and shudder.
 + have **integral**, whole faith
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-VMphSM-RqBo-snow_walking.jpg" -->
+<!-- .slide: <%= bg("unsplash-VMphSM-RqBo-snow_walking.jpg") %> -->
 ## Faith that Acts <br/> <span class="ref">James 2(b)</span>
 1. More than Intentions <span class="ref">(15-17)</span>
 2. Integral Life <span class="ref">(18-19)</span>
@@ -241,7 +241,7 @@ Even the **demons** believe that — and shudder.
   + **back** to Him
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-xCdFXXoZkJc-dark_sky.jpg" -->
+<!-- .slide: <%= bg("unsplash-xCdFXXoZkJc-dark_sky.jpg") %> -->
 <span class="ref">21</span>
 Was not our father **Abraham** <br/>
 considered **righteous** for what he did <br/>
@@ -255,7 +255,7 @@ when he **offered** his son Isaac on the altar?
 + **Read** Gen 15:
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Jztmx9yqjBw-stars.jpg" -->
+<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> -->
 <span class="ref">(Gen 15:1)</span>
 After this, the word of the Lord <br/>
 came to Abram in a vision:
@@ -272,7 +272,7 @@ I am your **shield**, your very great **reward**.”
 + but Abram not **satisfied** yet:
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Jztmx9yqjBw-stars.jpg" -->
+<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> -->
 <span class="ref">(Gen 15:2)</span>
 But Abram said, “Sovereign Lord, <br/>
 what can you **give** me since I remain **childless** <br/>
@@ -289,7 +289,7 @@ will be your **heir**.”
 + Eliezer was his **servant**
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Jztmx9yqjBw-stars.jpg" -->
+<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> -->
 <span class="ref">(Gen 15:5)</span>
 He took him outside and said, <br/>
 “Look up at the **sky** and count the **stars** <br/>
@@ -307,7 +307,7 @@ Then he said to him, <br/>
   + blessing to **all nations**
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Jztmx9yqjBw-stars.jpg" -->
+<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> -->
 <span class="ref">(Gen 15:6)</span>
 Abram **believed** the Lord, <br/>
 and he **credited** it to him as **righteousness**.
@@ -322,7 +322,7 @@ and he **credited** it to him as **righteousness**.
 + Reflected back in *James 2:24*:
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-xCdFXXoZkJc-dark_sky.jpg" -->
+<!-- .slide: <%= bg("unsplash-xCdFXXoZkJc-dark_sky.jpg") %> -->
 <span class="ref">24</span>
 You see that a person is considered **righteous** <br/>
 by what they **do** and not by faith **alone**.
@@ -333,7 +333,7 @@ by what they **do** and not by faith **alone**.
 + Continue **reading**, Gen 22:
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Carvaggio-Sacrifice_of_Isaac-1603.jpg" -->
+<!-- .slide: <%= bg("Carvaggio-Sacrifice_of_Isaac-1603.jpg") %> -->
 <span class="ref">(Gen 22:2)</span>
 Then God said, <br/>
 “Take your **son**, your **only** son, <br/>
@@ -353,7 +353,7 @@ on a mountain I will show you.”
   + ram as **substitute**
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-xCdFXXoZkJc-dark_sky.jpg" -->
+<!-- .slide: <%= bg("unsplash-xCdFXXoZkJc-dark_sky.jpg") %> -->
 <span class="ref">22</span>
 You see that his **faith** and his **actions** <br/>
 were working **together**,
@@ -370,7 +370,7 @@ by what he **did**.
 + Gen 15 also quoted in **Gal 3**:
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-74TufExdP3Y-sunlit-road.jpg" -->
+<!-- .slide: <%= bg("unsplash-74TufExdP3Y-sunlit-road.jpg") %> -->
 <span class="ref">(Gal 3:8)</span>
 Scripture foresaw that God <br/>
 would **justify** the Gentiles **by faith**, <br/>
@@ -398,14 +398,14 @@ are **blessed** along with Abraham, the **man of faith**.
 + needs to **impact** my heart
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-VMphSM-RqBo-snow_walking.jpg" -->
+<!-- .slide: <%= bg("unsplash-VMphSM-RqBo-snow_walking.jpg") %> -->
 ## Faith that Acts <br/> <span class="ref">James 2(b)</span>
 1. More than **Intentions** <span class="ref">(15-17)</span>
 2. **Integral** Life <span class="ref">(18-19)</span>
 3. **Impacts** the Heart <span class="ref">(20-24)</span>
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-VMphSM-RqBo-snow_walking.jpg" -->
+<!-- .slide: <%= bg("unsplash-VMphSM-RqBo-snow_walking.jpg") %> -->
 <span class="ref">22</span>
 His **faith** and his **actions** <br/>
 were working **together**,
@@ -417,4 +417,4 @@ by what he **did**.
 **read** together
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-VMphSM-RqBo-snow_walking.jpg" class="empty" -->
+<!-- .slide: <%= bg("unsplash-VMphSM-RqBo-snow_walking.jpg" class="empty" -->
