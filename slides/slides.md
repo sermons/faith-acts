@@ -417,4 +417,4 @@ by what he **did**.
 **read** together
 
 ---
-<!-- .slide: <%= bg("unsplash-VMphSM-RqBo-snow_walking.jpg" class="empty" -->
+<!-- .slide: <%= bg("unsplash-VMphSM-RqBo-snow_walking.jpg") %> class="empty" -->
