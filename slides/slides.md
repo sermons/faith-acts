@@ -1,4 +1,4 @@
-<!-- .slide: <%= bg("unsplash-VMphSM-RqBo-snow_walking.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-VMphSM-RqBo-snow_walking.jpg") %> id="title" -->
 # Faith that Acts
 ## James 2:15-24
 
@@ -38,79 +38,87 @@
 1. **Law** of the King
 
 ---
-<span class="ref">15</span>
+[15](# "ref")
 Suppose a brother or a sister is </br>
 without **clothes** and daily **food**.
 
-<span class="ref">16</span>
+[16](# "ref")
 If one of you says to them, </br>
 “Go in **peace**; keep **warm** and **well fed**,”
 
 but does **nothing** about their physical needs, </br>
 what **good** is it?
 
-<span class="ref">17</span>
+[17](# "ref")
 In the same way, **faith** by itself, <br/>
 if it is not accompanied by **action**, is **dead**.
 
->>>
-+ **Read** together today's passage
+[James 2:15-17 (NIV) (p. 1/5)](# "ref")
 
 ---
-<span class="ref">18</span>
+[18](# "ref")
 But someone will say, <br/>
 “**You** have faith; **I** have deeds.”
 
 Show me your faith **without** deeds, <br/>
 and I will show you my faith **by** my deeds.
 
-<span class="ref">19</span>
+[19](# "ref")
 You believe that there is **one God**. Good! <br/>
 Even the **demons** believe that — and shudder.
 
+[James 2:18-19 (NIV) (p. 2/5)](# "ref")
+
 ---
-<span class="ref">20</span>
+[20](# "ref")
 You foolish person, do you want **evidence** <br/>
 that faith without deeds is **useless**?
 
-<span class="ref">21</span>
+[21](# "ref")
 Was not our father **Abraham** <br/>
 considered **righteous** for what he did <br/>
 when he **offered** his son Isaac on the altar?
 
+[James 2:20-21 (NIV) (p. 3/5)](# "ref")
+
 ---
-<span class="ref">22</span>
+[22](# "ref")
 You see that his **faith** and his **actions** <br/>
 were working **together**, <br/>
 and his faith was made **complete** <br/>
 by what he **did**.
 
-<span class="ref">23</span>
+[23](# "ref")
 And the scripture was fulfilled that says, <br/>
 “Abraham **believed** God, <br/>
 and it was credited to him as **righteousness**,” <br/>
 and he was called God’s **friend**.
 
+[James 2:22-23 (NIV) (p. 4/5)](# "ref")
+
 ---
-<span class="ref">24</span>
+[24](# "ref")
 You see that a person is considered **righteous** <br/>
 by what they **do** and not by faith **alone**.
 
+[James 2:24 (NIV) (p. 5/5)](# "ref")
+
 ---
-<!-- .slide: <%= bg("unsplash-VMphSM-RqBo-snow_walking.jpg") %> -->
-## Faith that Acts <br/> <span class="ref">James 2(b)</span>
-1. More than **Intentions** <span class="ref">(15-17)</span>
-2. **Integral** Life <span class="ref">(18-19)</span>
-3. **Impacts** the Heart <span class="ref">(20-24)</span>
+<!-- .slide: <%= bg("unsplash-VMphSM-RqBo-snow_walking.jpg") %> id="outline" class="outline" -->
+## Faith that Acts [(Jam2b)](# "ref")
+1. More than **Intentions** [15-17](# "ref")
+2. **Integral** Life [18-19](# "ref")
+3. **Impacts** the Heart [20-24](# "ref")
 
 ---
 <!-- .slide: <%= bg("pixabay-852423-homeless.jpg") %> -->
-<span class="ref">16</span>
 If one of you says to them, </br>
 “Go in **peace**; keep **warm** and **well fed**,”
 
 but does **nothing** about their physical needs, </br>
 what **good** is it?
+
+[James 2:16 (NIV)](# "ref")
 
 >>>
 + **brother**: not saving world
@@ -125,9 +133,10 @@ what **good** is it?
 
 ---
 <!-- .slide: <%= bg("unsplash-c333d6YEhi0-bible.jpg") %> -->
-<span class="ref">17</span>
 In the same way, **faith** by itself, <br/>
 if it is not accompanied by **action**, is **dead**.
+
+[James 2:16 (NIV)](# "ref")
 
 >>>
 + not just help **poor**
@@ -139,26 +148,29 @@ if it is not accompanied by **action**, is **dead**.
 
 ---
 <!-- .slide: <%= bg("unsplash-qVb-K2mFtDU-wheat.jpg") %> -->
-<span class="ref">(Mt 21:28)</span>
 There was a man who had **two sons**.
 
 He went to the **first** and said, <br/>
 "Son, go and **work** today in the vineyard."
 
-<span class="ref">29</span>
+[29](# "ref")
 "I will **not**," he answered, <br/>
 but later he **changed** his mind and **went**.
 
+[Matthew 21:28-29 (NIV) (p. 1/2)](# "ref")
+
 ---
 <!-- .slide: <%= bg("unsplash-qVb-K2mFtDU-wheat.jpg") %> -->
-<span class="ref">30</span>
+[30](# "ref")
 Then the father went to the **other** son <br/>
 and said the **same** thing.
 
 He answered, "I **will**, sir," but he did **not** go.
 
-<span class="ref">31</span>
+[31](# "ref")
 **Which** of the two did what his father wanted?
+
+[Matthew 21:30-31 (NIV) (p. 2/2)](# "ref")
 
 >>>
 + to **chief priests** in Jeru *(23)*
@@ -193,9 +205,10 @@ He answered, "I **will**, sir," but he did **not** go.
 
 ---
 <!-- .slide: <%= bg("unsplash-5fNmWej4tAA-laptops_work.jpg") %> -->
-<span class="ref">18</span>
 But someone will say, <br/>
 “**You** have faith; **I** have deeds.”
+
+[James 2:18 (NIV)](# "ref")
 
 >>>
 + division of labour
@@ -205,9 +218,10 @@ But someone will say, <br/>
 
 ---
 <!-- .slide: <%= bg("unsplash-ndsRLeQBlsA-dark_clouds.jpg") %> -->
-<span class="ref">19</span>
 You believe that there is **one God**. Good! <br/>
 Even the **demons** believe that — and shudder.
+
+[James 2:19 (NIV)](# "ref")
 
 >>>
 + not just intellectual **assent**
@@ -242,10 +256,11 @@ Even the **demons** believe that — and shudder.
 
 ---
 <!-- .slide: <%= bg("unsplash-xCdFXXoZkJc-dark_sky.jpg") %> -->
-<span class="ref">21</span>
 Was not our father **Abraham** <br/>
 considered **righteous** for what he did <br/>
 when he **offered** his son Isaac on the altar?
+
+[James 2:21 (NIV)](# "ref")
 
 >>>
 + What was Abraham's **faith**?
@@ -256,12 +271,13 @@ when he **offered** his son Isaac on the altar?
 
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> -->
-<span class="ref">(Gen 15:1)</span>
 After this, the word of the Lord <br/>
 came to Abram in a vision:
 
 “Do not be afraid, Abram. <br/>
 I am your **shield**, your very great **reward**.”
+
+[Genesis 15:1 (NIV) (p. 1/4)](# "ref")
 
 >>>
 + **promise**:
@@ -273,30 +289,33 @@ I am your **shield**, your very great **reward**.”
 
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> -->
-<span class="ref">(Gen 15:2)</span>
+[2](# "ref")
 But Abram said, “Sovereign Lord, <br/>
 what can you **give** me since I remain **childless** <br/>
 and the one who will **inherit** my estate <br/>
 is Eliezer of Damascus?”
 
-<span class="ref">4</span>
+[4](# "ref")
 Then the word of the Lord came to him: <br/>
 “This man will not be your heir, <br/>
 but a **son** who is your own flesh and blood <br/>
 will be your **heir**.”
+
+[Genesis 15:2,4 (NIV) (p. 2/4)](# "ref")
 
 >>>
 + Eliezer was his **servant**
 
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> -->
-<span class="ref">(Gen 15:5)</span>
 He took him outside and said, <br/>
 “Look up at the **sky** and count the **stars** <br/>
 -- if indeed you can **count** them.”
 
 Then he said to him, <br/>
 “So shall your **offspring** be.”
+
+[Genesis 15:5 (NIV) (p. 3/4)](# "ref")
 
 >>>
 + *(15-16)* God has **more** in store:
@@ -308,9 +327,10 @@ Then he said to him, <br/>
 
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> -->
-<span class="ref">(Gen 15:6)</span>
 Abram **believed** the Lord, <br/>
 and he **credited** it to him as **righteousness**.
+
+[Genesis 15:6 (NIV) (p. 4/4)](# "ref")
 
 >>>
 + *Gal* highlights this as
@@ -323,9 +343,10 @@ and he **credited** it to him as **righteousness**.
 
 ---
 <!-- .slide: <%= bg("unsplash-xCdFXXoZkJc-dark_sky.jpg") %> -->
-<span class="ref">24</span>
 You see that a person is considered **righteous** <br/>
 by what they **do** and not by faith **alone**.
+
+[James 2:24 (NIV)](# "ref")
 
 >>>
 + **Trust** + **Obey**
@@ -334,7 +355,6 @@ by what they **do** and not by faith **alone**.
 
 ---
 <!-- .slide: <%= bg("Carvaggio-Sacrifice_of_Isaac-1603.jpg") %> -->
-<span class="ref">(Gen 22:2)</span>
 Then God said, <br/>
 “Take your **son**, your **only** son, <br/>
 whom you **love** -- **Isaac** -- <br/>
@@ -342,6 +362,8 @@ and go to the region of Moriah.
 
 **Sacrifice** him there as a **burnt offering** <br/>
 on a mountain I will show you.”
+
+[Genesis 22:2 (NIV)](# "ref")
 
 >>>
 + *only*: of **promise** (not *Ishmael*)
@@ -354,12 +376,13 @@ on a mountain I will show you.”
 
 ---
 <!-- .slide: <%= bg("unsplash-xCdFXXoZkJc-dark_sky.jpg") %> -->
-<span class="ref">22</span>
 You see that his **faith** and his **actions** <br/>
 were working **together**,
 
 and his faith was made **complete** <br/>
 by what he **did**.
+
+[James 2:22 (NIV)](# "ref")
 
 >>>
 + *Gen15:6*: **believed** &rarr; **righteous**
@@ -371,16 +394,17 @@ by what he **did**.
 
 ---
 <!-- .slide: <%= bg("unsplash-74TufExdP3Y-sunlit-road.jpg") %> -->
-<span class="ref">(Gal 3:8)</span>
 Scripture foresaw that God <br/>
 would **justify** the Gentiles **by faith**, <br/>
 and announced the **gospel** in advance to Abraham:
 
 “**All nations** will be **blessed** through you.”
 
-<span class="ref">9</span>
+[9](# "ref")
 So those who **rely on faith** <br/>
 are **blessed** along with Abraham, the **man of faith**.
+
+[Galatians 3:8-9 (NIV)](# "ref")
 
 >>>
 + We **follow** in his footsteps
@@ -399,19 +423,13 @@ are **blessed** along with Abraham, the **man of faith**.
 
 ---
 <!-- .slide: <%= bg("unsplash-VMphSM-RqBo-snow_walking.jpg") %> -->
-## Faith that Acts <br/> <span class="ref">James 2(b)</span>
-1. More than **Intentions** <span class="ref">(15-17)</span>
-2. **Integral** Life <span class="ref">(18-19)</span>
-3. **Impacts** the Heart <span class="ref">(20-24)</span>
-
----
-<!-- .slide: <%= bg("unsplash-VMphSM-RqBo-snow_walking.jpg") %> -->
-<span class="ref">22</span>
 His **faith** and his **actions** <br/>
 were working **together**,
 
 and his faith was made **complete** <br/>
 by what he **did**.
+
+[James 2:22 (NIV)](# "ref")
 
 >>>
 **read** together
