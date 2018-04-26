@@ -333,7 +333,7 @@ by what they **do** and not by faith **alone**.
 + Continue **reading**, Gen 22:
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Carvaggio-Sacrifice_of_Isaac-1603.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Caravaggio-Sacrifice_of_Isaac-1603.jpg" -->
 <span class="ref">(Gen 22:2)</span>
 Then God said, <br/>
 “Take your **son**, your **only** son, <br/>
