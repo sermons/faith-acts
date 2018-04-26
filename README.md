@@ -3,7 +3,7 @@
 
 [![Travis-CI build status](https://travis-ci.org/sermons/faith-acts.svg)](https://travis-ci.org/sermons/faith-acts)
 [![Node dependencies](https://david-dm.org/sermons/faith-acts.svg)](https://david-dm.org/sermons/faith-acts)
-[![Node dev status](https://david-dm.org/sermons/faith-acts/dev-status.svg)](https://david-dm.org/sermons/faith-acts#info=devDependencies)
+[![Node dev status](https://david-dm.org/sermons/faith-acts/dev-status.svg)](https://david-dm.org/sermons/faith-acts?type=dev)
 
 Template presentation: [reveal-skel](https://github.com/sermons/reveal-skel)
 
