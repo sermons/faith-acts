@@ -112,6 +112,21 @@ by what they **do** and not by faith **alone**.
 
 ---
 <!-- .slide: <%= bg("pixabay-852423-homeless.jpg") %> -->
+Suppose a brother or a sister is </br>
+without **clothes** and daily **food**.
+
+[James 2:15 (NIV)](# "ref")
+
+>>>
++ **sister**: explicit mention unusual
++ **brother**: within own church
+  + Diaspora: as church **spreads**
+  + all **walks** of life
+  + not saving world, **start** close
++ **naked**, lack **food** of day
+
+---
+<!-- .slide: <%= bg("pixabay-852423-homeless.jpg") %> -->
 If one of you says to them, </br>
 “Go in **peace**; keep **warm** and **well fed**,”
 
@@ -121,9 +136,6 @@ what **good** is it?
 [James 2:16 (NIV)](# "ref")
 
 >>>
-+ **brother**: not saving world
-  + **start** close
-+ **naked**, lack **food** of day
 + be **warmed** / warm **self**: m/p
   + be **filled** / satisfied
   + good **intentions**
@@ -184,8 +196,7 @@ He answered, "I **will**, sir," but he did **not** go.
 
 ---
 <!-- .slide: data-background="white" -->
-# What **promises** <br/> have I made to God
-# without **action**?
+# What **promises** have I made to God without **action**?
 
 >>>
 + tangible **aid** to needy brethren
@@ -193,11 +204,11 @@ He answered, "I **will**, sir," but he did **not** go.
 + good **intentions** not enough!
 
 ---
-<!-- .slide: <%= bg("unsplash-VMphSM-RqBo-snow_walking.jpg") %> -->
-## Faith that Acts <br/> <span class="ref">James 2(b)</span>
-1. More than Intentions <span class="ref">(15-17)</span>
-2. **Integral Life** <span class="ref">(18-19)</span>
-3. Impacts the Heart <span class="ref">(20-24)</span>
+<!-- .slide: <%= bg("unsplash-VMphSM-RqBo-snow_walking.jpg") %> class="outline" -->
+## Faith that Acts [(Jam2b)](# "ref")
+1. More than Intentions [15-17](# "ref")
+2. **Integral Life** [18-19](# "ref")
+3. Impacts the Heart [20-24](# "ref")
 
 >>>
 + **integrity**: one whole person
@@ -230,10 +241,24 @@ Even the **demons** believe that — and shudder.
 >>>
 + not just intellectual **assent**
   + or correct **doctrine**
+  + e.g. **proving** God exists
 + &rArr; need **obedience**
   + **integrate** faith + works
 + **child-like** faith + obey: &gt;
   + **memorise** entire Bible
+
+---
+“A new **command** I give you: <br>
+**Love** one another.  <br>
+As **I** have loved you, <br>
+so **you** must love one another.
+
+[35](# "ref")
+By this everyone will **know**  <br>
+that you are my **disciples**,  <br>
+if you love one another.” 
+
+[John 13:34-35 (NIV)](# "ref")
 
 ---
 <!-- .slide: data-background="white" -->
@@ -246,11 +271,11 @@ Even the **demons** believe that — and shudder.
 + have **integral**, whole faith
 
 ---
-<!-- .slide: <%= bg("unsplash-VMphSM-RqBo-snow_walking.jpg") %> -->
-## Faith that Acts <br/> <span class="ref">James 2(b)</span>
-1. More than Intentions <span class="ref">(15-17)</span>
-2. Integral Life <span class="ref">(18-19)</span>
-3. **Impacts the Heart** <span class="ref">(20-24)</span>
+<!-- .slide: <%= bg("unsplash-VMphSM-RqBo-snow_walking.jpg") %> class="outline" -->
+## Faith that Acts [(Jam2b)](# "ref")
+1. More than Intentions [15-17](# "ref")
+2. Integral Life [18-19](# "ref")
+3. **Impacts the Heart** [20-24](# "ref")
 
 >>>
 + to the point of **sacrifice**
@@ -354,7 +379,7 @@ by what they **do** and not by faith **alone**.
 
 >>>
 + **Trust** + **Obey**
-+ Abraham's **faith** was not **complete** yet!
++ But Abram's **faith** not **complete** yet!
 + Continue **reading**, Gen 22:
 
 ---
