@@ -32,7 +32,7 @@
         "venue": "Fujian Evangelical Church",
         "city": "Richmond",
         "date": "2018-04-29",
-        "duration": 0
+        "duration": [42, 0]
       },
       {
         "venue": "Evangelical Chinese Bible Church",
