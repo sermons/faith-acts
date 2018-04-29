@@ -44,8 +44,7 @@ without **clothes** and daily **food**.
 
 [16](# "ref")
 If one of you says to them, </br>
-“Go in **peace**; keep **warm** and **well fed**,”
-
+“Go in **peace**; keep **warm** and **well fed**,” <br>
 but does **nothing** about their physical needs, </br>
 what **good** is it?
 
@@ -226,9 +225,9 @@ But someone will say, <br/>
 [James 2:18 (NIV)](# "ref")
 
 >>>
-+ division of labour
-  + specialisation
++ division of labour, specialisation
   + not all "**doers**"
+  + be manager, CEO
 + e.g., directing wife how to cook
 
 ---
@@ -381,7 +380,21 @@ by what they **do** and not by faith **alone**.
 >>>
 + **Trust** + **Obey**
 + But Abram's **faith** not **complete** yet!
-+ Continue **reading**, Gen 22:
+
+---
+# Abram's Sojourn of Faith
++ God's **Promise** [(ch15)](# "ref")
++ Abram's **Impatience**  [(ch16)](# "ref")
++ God's **Covenant**  [(ch17)](# "ref")
++ God's **Faithfulness**  [(ch21)](# "ref")
++ Abraham's **Faith** Completed  [(ch22)](# "ref")
+
+>>>
++ **journey** of faith
+  + including **failure**
+  + Hagar + Ishmael (ch16)
++ God's **faithfulness** (ch18,21)
++ faith not **complete** until ch22:
 
 ---
 <!-- .slide: <%= bg("Caravaggio-Sacrifice_of_Isaac-1603.jpg") %> -->
