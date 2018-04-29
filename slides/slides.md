@@ -248,6 +248,7 @@ Even the **demons** believe that — and shudder.
   + **memorise** entire Bible
 
 ---
+<!-- .slide: <%= bg("unsplash-2PODhmrvLik-heart_sunset.jpg") %> -->
 “A new **command** I give you: <br>
 **Love** one another.  <br>
 As **I** have loved you, <br>
@@ -425,13 +426,15 @@ by what he **did**.
 <!-- .slide: <%= bg("unsplash-74TufExdP3Y-sunlit-road.jpg") %> -->
 Scripture foresaw that God <br/>
 would **justify** the Gentiles **by faith**, <br/>
-and announced the **gospel** in advance to Abraham:
+and announced the **gospel** <br>
+in advance to Abraham:
 
 “**All nations** will be **blessed** through you.”
 
 [9](# "ref")
 So those who **rely on faith** <br/>
-are **blessed** along with Abraham, the **man of faith**.
+are **blessed** along with Abraham, <br>
+the **man of faith**.
 
 [Galatians 3:8-9 (NIV)](# "ref")
 
@@ -444,7 +447,7 @@ are **blessed** along with Abraham, the **man of faith**.
 
 ---
 <!-- .slide: data-background="white" -->
-# What am I willing <br/> to **relinquish** to God
+# What will I **relinquish** to God
 # in obedient **faith**?
 
 >>>
