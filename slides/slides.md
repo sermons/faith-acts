@@ -460,7 +460,7 @@ the **man of faith**.
 
 ---
 <!-- .slide: data-background="white" -->
-# What will I **relinquish** to God
+# What must I **relinquish** to God
 # in obedient **faith**?
 
 >>>
