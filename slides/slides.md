@@ -130,6 +130,8 @@ what **good** is it?
 + **necessities** of the **body**
 + What is the **benefit**?
   + to brother / to self
++ e.g., hubby worries about global warming, international trade, Trump
+  + wife worried about dinner tonight
 
 ---
 <!-- .slide: <%= bg("unsplash-c333d6YEhi0-bible.jpg") %> -->
@@ -139,6 +141,8 @@ if it is not accompanied by **action**, is **dead**.
 [James 2:16 (NIV)](# "ref")
 
 >>>
++ even "thoughts + prayers" not enough
+  + prayer of **faith** &rArr; **obey**
 + not just help **poor**
 + anything God **asks** of us
   + or we **commit** to God
@@ -212,8 +216,8 @@ But someone will say, <br/>
 
 >>>
 + division of labour
-+ specialisation
-+ not all "**doers**"
+  + specialisation
+  + not all "**doers**"
 + e.g., directing wife how to cook
 
 ---
