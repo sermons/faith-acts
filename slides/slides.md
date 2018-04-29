@@ -358,7 +358,7 @@ by what they **do** and not by faith **alone**.
 + Continue **reading**, Gen 22:
 
 ---
-<!-- .slide: <%= bg("Carvaggio-Sacrifice_of_Isaac-1603.jpg") %> -->
+<!-- .slide: <%= bg("Caravaggio-Sacrifice_of_Isaac-1603.jpg") %> -->
 Then God said, <br/>
 “Take your **son**, your **only** son, <br/>
 whom you **love** -- **Isaac** -- <br/>
