@@ -432,6 +432,7 @@ by what he **did**.
   + "ok God, I believe you"
 + not **complete** until *Gen 22*
   + willing to **relinquish**
++ Heb11: figured God could **raise** from dead
 + this **kind** of belief: to **action**
 + Gen 15 also quoted in **Gal 3**:
 
@@ -464,7 +465,10 @@ the **man of faith**.
 # in obedient **faith**?
 
 >>>
-+ needs to **impact** my heart
++ **impacts** my heart
++ even **good** things, promised by God
++ focus not on **blessings**
++ but on person of God
 
 ---
 <!-- .slide: <%= bg("unsplash-VMphSM-RqBo-snow_walking.jpg") %> -->
