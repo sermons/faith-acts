@@ -216,6 +216,7 @@ He answered, "I **will**, sir," but he did **not** go.
   + at **church**: sing / pray
 + faith is **incomplete** if
   + only at **church**
++ having both **doctrine** + **action**
 
 ---
 <!-- .slide: <%= bg("unsplash-5fNmWej4tAA-laptops_work.jpg") %> -->
