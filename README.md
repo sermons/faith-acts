@@ -1,7 +1,7 @@
 # Faith that Acts (4/10)
 ## James 2:17-24
 
-[![Travis-CI build status](https://travis-ci.org/sermons/faith-acts.svg)](https://travis-ci.org/sermons/faith-acts)
+[![Travis-CI build status](https://api.travis-ci.org/sermons/faith-acts.svg)](https://travis-ci.org/github/sermons/faith-acts)
 [![Node dependencies](https://david-dm.org/sermons/faith-acts.svg)](https://david-dm.org/sermons/faith-acts)
 [![Node dev status](https://david-dm.org/sermons/faith-acts/dev-status.svg)](https://david-dm.org/sermons/faith-acts?type=dev)
 
